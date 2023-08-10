@@ -1,7 +1,11 @@
-const inquirer = require('inquirer');
-const fs = require('fs');
-const SVG = require('./lib/svg');
-const { Circle, Triangle, Square } = require('./lib/shape');
+//const inquirer = require('inquirer');
+import inquirer from 'inquirer';
+//const fs = require('fs');
+import fs from 'fs';
+//const SVG = require('./lib/svg.');
+import { SVG } from './lib/svg.js'; // Corrected import statement
+//const { Circle, Triangle, Square } = require('./lib/shape');
+import { Circle, Triangle, Square } from './lib/shapes.js';
 
 
 inquirer

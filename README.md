@@ -30,5 +30,10 @@ Support for custom text and shape colors using keywords or hexadecimal numbers.
 Multiple shape options to choose from: circle, triangle, and square.
 Automatic generation of an SVG logo file.
 
-## Walkthrough Video
+## Walkthrough Video/Screenshot
+
+[ Click here walkthrough ](https://watch.screencastify.com/v/dHnjYEvsuB1EZxYt7oEK)
+
+![Screenshot](./assets/img/Terminal%20Input(colors,shapes).png)
+
 

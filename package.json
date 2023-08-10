@@ -5,5 +5,19 @@
   "dependencies": {
     "@svgdotjs/svg.js": "^3.2.0",
     "inquirer": "^9.2.10"
-  }
+  },
+  "name": "hashims-svg-logo-maker",
+  "description": "This is a command-line application that allows a user to generate simple logos for their projects without the need for a graphic designer. The application prompts the user to enter text, choose a text color, select a shape (circle, triangle, or square), and pick a color for the shape. It then generates an SVG file named logo.svg that represents the user's input.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "example": "examples",
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
 }
